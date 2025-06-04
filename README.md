@@ -59,8 +59,7 @@ Besides showing formatted addresses with emojis and friendly messages, the progr
 - `Principal.java` – classe principal do programa  
 - `ConsultaCep.java` – consulta via API ViaCEP  
 - `Endereco.java` – registro com informações do endereço  
-- `GeradorDeArquivo.java` – gera arquivos JSON  
-- `GeradorDeRelatorio.java` – gera relatório HTML  
+- `GeradorDeArquivo.java` – gera arquivos JSON e gera relatórios em HTML
 
 ---
 
